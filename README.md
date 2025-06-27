@@ -1,0 +1,2 @@
+### `*SESSION ID GENERATOR DEVELOPED BY HANSTZ MD*`
+# bot-session
